@@ -203,12 +203,12 @@ inquiry_options() {
   print_banner
   printf "${WHITE} 💻 Bem vindo(a) ao Gerenciador Canal Vem Fazer, selecione abaixo a proxima ação!${GRAY_LIGHT}"
   printf "\n\n"
-  printf "   [0] Instalar Canal Vem Fazer\n"
-  printf "   [1] Atualizar Canal Vem FazerP\n"
-  printf "   [2] Deletar Canal Vem Fazer\n"
-  printf "   [3] Bloquear Canal Vem FazerP\n"
-  printf "   [4] Desbloquear Canal Vem Fazer\n"
-  printf "   [5] Alter. dominio Canal Vem Fazer\n"
+  printf "   [0] Instalar AdyaChat\n"
+  printf "   [1] Atualizar AdyaChat\n"
+  printf "   [2] Deletar AdyaChat\n"
+  printf "   [3] Bloquear AdyaChat\n"
+  printf "   [4] Desbloquear AdyaChat\n"
+  printf "   [5] Alter. dominio AdyaChat\n"
   printf "\n"
   read -p "> " option
 
